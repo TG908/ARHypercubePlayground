@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>cell</key>
+		<dict>
+			<key>Definition</key>
+			<string>A cell is a 3-face element of a 4-dimensional polytope</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Cell</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+		<key>face</key>
+		<dict>
+			<key>Definition</key>
+			<string>A flat surface that forms part of the boundary of a solid object</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Face</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+		<key>edge</key>
+		<dict>
+			<key>Definition</key>
+			<string>A line between 2 vertecies</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Edge</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+		<key>vertex</key>
+		<dict>
+			<key>Definition</key>
+			<string>A point where 2 edges meet</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Vertex</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+		<key>projection</key>
+		<dict>
+			<key>Definition</key>
+			<string>A method of mapping higher dimensional points to a lower dimensional plane. There are 2 main types of projections: 1) Perspective: distant objects appear smaller than closer objects (closely resembles human vision) 2) Orthographic: distant objects appear the same size as near objects.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Projection</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+		<key>plane</key>
+		<dict>
+			<key>Definition</key>
+			<string>A flat 2D surface that extends infinitly in all directions</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Plane</string>
+				<key>PageReference</key>
+				<string>Tesseract/Tesseract</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
